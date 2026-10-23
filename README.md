@@ -10,9 +10,20 @@
 
 我用 Java 和 Python 构建项目，关注业务流程、工具执行与验证记录。这里分享正在打磨的开源作品，欢迎试用、提问和交流实现思路。
 
-[探索作品 ↓](#selected-work) · [技术栈](#toolbox) · [一起交流](#lets-connect)
+[探索作品 ↓](#selected-work) · [技术栈](#tech-stack) · [一起交流](#lets-connect)
 
-<a id="selected-work"></a>
+## Tech Stack
+
+**Backend Development**
+
+![Java、Spring、MySQL、Redis、Maven、Docker](https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,docker&perline=6)
+
+**AI & Development Tools**
+
+![Python、Git、GitHub、Linux、IntelliJ IDEA、GitHub Actions](https://skillicons.dev/icons?i=python,git,github,linux,idea,githubactions&perline=6)
+
+**AI Focus** · Spring AI / Tool Calling / RAG / Qdrant
+
 ## Selected Work
 
 ### [VeriTrail](https://github.com/spylent-1/veritrail-agent) · 可审计的编码 Agent
@@ -49,17 +60,13 @@
 餐饮管理后端的模块化实践：员工登录、JWT 鉴权与 Maven 多模块组织；订单与支付链路尚待完善。<br>
 `Java` `JWT` `MyBatis` `Maven`
 
-<a id="toolbox"></a>
-## Toolbox
-
-**Backend** · Java / Spring Boot / MySQL / Redis / MyBatis<br>
-**AI** · Python / Spring AI / Tool Calling / RAG / Qdrant<br>
-**Engineering** · Git / Maven / Docker / GitHub Actions / pytest
-
-<a id="lets-connect"></a>
 ## Let's Connect
 
-对 Agent 的可控执行、后端设计或 F1 数据感兴趣？欢迎带着使用反馈、可复现的问题或实现建议来交流。
+对 Agent 的可控执行、后端设计或 F1 数据感兴趣？欢迎通过邮件交流实现思路与合作想法。
+
+**Email** · [qaz2992194324@gmail.com](mailto:qaz2992194324@gmail.com)
+
+项目使用反馈与可复现的问题，也欢迎提交到对应仓库：
 
 [VeriTrail Issues ↗](https://github.com/spylent-1/veritrail-agent/issues) · [F1 Issues ↗](https://github.com/spylent-1/F1-race-data-and-intelligent-analysis-system/issues)
 
