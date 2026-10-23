@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+<title id="title">Lhyyy — Java Backend · AI Agents</title>
+<desc id="desc">spylent-1. A blue path connecting source, tools and evidence.</desc>
+<rect width="960" height="240" rx="12" fill="#101e36"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="40" y="46" font-size="17" fill="#aec5e8">spylent-1 / open source</text>
+<text x="36" y="130" font-size="76" font-weight="700" letter-spacing="-2" fill="#f0f6ff">Lhyyy<tspan fill="#71aaff">.</tspan></text>
+<text x="40" y="178" font-size="24" font-weight="600" fill="#f0f6ff">Java Backend · AI Agents</text>
+<text x="40" y="212" font-size="16" fill="#aec5e8">Build thoughtfully. Leave a trail.</text>
+</g>
+<g fill="none" stroke="#2d4b78" stroke-width="2">
+<path d="M575 52H660Q680 52 680 72V155Q680 175 700 175H891"/>
+<path d="M575 121H772Q792 121 792 101V52H891"/>
+<path d="M575 199H617Q637 199 637 179V141Q637 121 657 121"/>
+</g>
+<path d="M575 121H732Q752 121 752 141V155Q752 175 772 175H891" fill="none" stroke="#71aaff" stroke-width="4"/>
+<g fill="#172c4b" stroke="#2d4b78" stroke-width="2">
+<rect x="549" y="99" width="48" height="44" rx="10"/>
+<rect x="701" y="99" width="48" height="44" rx="10"/>
+<rect x="866" y="153" width="48" height="44" rx="10"/>
+</g>
+<g stroke="#71aaff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="m568 114-7 7 7 7m10-14 7 7-7 7"/>
+<path d="M716 113h18m-18 8h18m-18 8h11"/>
+<path d="m880 175 7 7 13-14"/>
+</g>
+<g fill="#71aaff"><circle cx="575" cy="52" r="5"/><circle cx="575" cy="199" r="5"/><circle cx="891" cy="52" r="5"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#aec5e8" text-anchor="middle">
+<text x="573" y="165">source</text><text x="725" y="85">tools</text><text x="890" y="219">evidence</text>
+</g>
+</svg>
